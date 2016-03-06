@@ -1,3 +1,1 @@
-n the words of Abraham Lincoln:
-
-> Pardon my French
+Use [cenas](https://help.github.com/categories/writing-on-github/).
